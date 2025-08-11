@@ -1,0 +1,1 @@
+[{"artista":"Los cazadores","foto":"https://cdn.jsdelivr.net/gh/JLRECORD/Los_cazadores_d2g5/intro.jpg","musica":"https://cdn.jsdelivr.net/gh/JLRECORD/Los_cazadores_d2g5/intro.mp3","campo1":"Pop","id":"5xR8B","campo2":"https://jlrecord.github.io/Los_cazadores_d2g5/intro.html","publicacion":"intro"}]
